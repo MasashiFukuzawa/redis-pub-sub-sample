@@ -8,5 +8,5 @@ wheels/
 
 # Virtual environments
 .mypy_cache/
-.specstory
-.venv
+.specstory/
+.venv/
